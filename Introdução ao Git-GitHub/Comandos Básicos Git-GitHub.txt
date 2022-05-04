@@ -1,0 +1,21 @@
+## Comandos Básicos 
+
+Criando novos repositórios _:_ 
+
+```
+echo "# desafio-github-repositorio" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/0gaiht/desafio-github-repositorio.git
+git push -u origin main
+```
+
+Enviar repositórios já existentes _:_	
+
+```
+git remote add origin https://github.com/0gaiht/desafio-github-repositorio.git
+git branch -M main
+git push -u origin main
+```

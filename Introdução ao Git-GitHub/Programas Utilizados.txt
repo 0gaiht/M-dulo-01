@@ -1,0 +1,7 @@
+## Programas essenciais 
+
+- **Typora** - _Leitor e escritor de texto_. 
+
+- **Git Bash** - _Programa_ _fornece_ _uma_ _emulação_ _BASH_ .
+
+  _usada_ _para_ _executar_ _o_ _Git_ _a_ _partir_ _de_ _uma_ _linha_ _de_ _comando._		
